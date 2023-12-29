@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Dec27Task.DTOs.StudentDTOs
+namespace Dec27Task.Dtos.StudentDtos
 {
     public class StudentCreateDto
     {

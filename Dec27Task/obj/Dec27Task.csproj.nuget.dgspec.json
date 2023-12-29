@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Birinci Novbe\\Desktop\\Dec27Task\\Dec27Task.csproj": {}
+    "C:\\Users\\Birinci Novbe\\Desktop\\StudentsAPI\\Dec27Task\\Dec27Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Birinci Novbe\\Desktop\\Dec27Task\\Dec27Task.csproj": {
+    "C:\\Users\\Birinci Novbe\\Desktop\\StudentsAPI\\Dec27Task\\Dec27Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\Dec27Task\\Dec27Task.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\StudentsAPI\\Dec27Task\\Dec27Task.csproj",
         "projectName": "Dec27Task",
-        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Dec27Task\\Dec27Task.csproj",
+        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\StudentsAPI\\Dec27Task\\Dec27Task.csproj",
         "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\Dec27Task\\obj\\",
+        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\StudentsAPI\\Dec27Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",

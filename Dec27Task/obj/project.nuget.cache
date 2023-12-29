@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGYf8/SK7LkLVvO7Q2aKNmIOZPT2jWdVIUp5qfa/Nj5nK2NcxFfWG8CvpF/dGSGxaNA8N+lueC72BoeLwWU7ug==",
+  "dgSpecHash": "IPcXAZ6chFNwFxS6jaQPoq/OS7413DfFIX0nILUMrrY6mGXxu3Q+Pyssrceu/lmz77STbHZZXuidSt1IrXIdgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Birinci Novbe\\Desktop\\Dec27Task\\Dec27Task.csproj",
+  "projectFilePath": "C:\\Users\\Birinci Novbe\\Desktop\\StudentsAPI\\Dec27Task\\Dec27Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Birinci Novbe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Birinci Novbe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
